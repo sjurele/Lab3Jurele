@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3Jurele</string>
+    <string name="btn_add">Add note</string>
+    <string name="main_intro_text">On the top right corner menu, choose wether you want to add or delete a note.</string>
+    <string name="type_note_here">Write your text here</string>
+    <string name="btn_delete_caption">Delete</string>
+    <string name="choose_the_note_to_delete_caption">Choose the note to delete:</string>
+    <string name="write_your_note_caption">Write your note you want to save:</string>
+</resources>
